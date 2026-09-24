@@ -1,4 +1,4 @@
-# 🎵 Credits
+# Credits
 
 This file contains attribution and information about third-party and AI-assisted assets used in **Breaking Systems**.
 
